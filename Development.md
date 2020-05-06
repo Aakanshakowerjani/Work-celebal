@@ -39,8 +39,7 @@
 |Framework|License|part of|Category|Category Special feature|
 |---------|-------|-------|--------|------------------------|
 |Robot|Free software(ASF License)|Python generic test libraries.|Acceptance Testing|Keyword-driven testing approach.|
-|Pytest|Free Software(MIT License)|Stand alone, allows compact test suites.|Unit Testing|Special and simple class fixture for making testing easier.
-|
+|Pytest|Free Software(MIT License)|Stand alone, allows compact test suites.|Unit Testing|Special and simple class fixture for making testing easier.|
 |unittest|Free software (MIT License)|Part of Python standard library.|Unit Testing|Fast test collection and flexible test execution.|
 |DocTest|Free software (MIT License)|Part of Python standard library.|Unit Testing|Python Interactive Shell for the command prompt and inclusive application.|
 |Nose2|Free software(BSD License)|Carries unittest features with additional feature and plugins.|unittest extension|A large number of plugins.|
